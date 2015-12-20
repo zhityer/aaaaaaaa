@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '',
+	bot_api_key = '137860990:AAHKX_spFj0YMJ7oVuZreEeXOfsvx2pknw0',
 	google_api_key = '',
 	google_cse_key = '',
 	lastfm_api_key = '',
@@ -8,8 +8,8 @@ return {
 	thecatapi_key = '',
 	time_offset = 0,
 	lang = 'en',
-	admin = 00000000,
-	admin_name = 'John Smith',
+	admin = 73015064,
+	admin_name = 'zotron',
 	about_text = [[
 I am otouto, the plugin-wielding, multi-purpose Telegram bot written by topkecleon.
 
