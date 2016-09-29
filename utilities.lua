@@ -3,7 +3,7 @@
 
 function get_word(s, i) -- get the indexed word in a string
 
-	local t = {}
+	local t = {}dfsdfsdfdsfsdfsdfddddddddd
 	for w in s:gmatch('%g+') do
 		table.insert(t, w)
 	end
