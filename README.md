@@ -6,7 +6,7 @@ The public bot runs on [@mokubot](https://telegram.me/mokubot).
 otouto is licensed under the GNU General Public License. A copy of the license has been included in [LICENSE](https://github.com/topkecleon/otouto/blob/master/LICENSE).
 
 ##What is it?
-otouto is an independently-developed Telegram API bot written in Lua. otouto was created in February 2015, open-sourced in June, and is being augmented to this day.
+otouto is an independently-deasDDDDDDDDDDDDDDDDDDDDDDveloped Telegram API bot written in Lua. otouto was created in February 2015, open-sourced in June, and is being augmented to this day.
 
 Bot commands and functions use a comprehensive plugin system, similar to that of (yagop's telegram-bot)[github.com/yagop/telegram-bot]. The aim of the project is to host every desirable feature in one bot.
 
