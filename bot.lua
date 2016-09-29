@@ -6,7 +6,7 @@ JSON = require('dkjson')
 version = '3.0.1'
 
 bot_init = function() -- The function run when the bot is started or reloaded.
-
+         pppppppppppppppppppppppppppppppp
 	config = dofile("config.lua") -- Load configuration file.
 	dofile("bindings.lua") -- Load Telegram bindings.
 	dofile("utilities.lua") -- Load miscellaneous and cross-plugin functions.
