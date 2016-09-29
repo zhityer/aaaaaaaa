@@ -3,7 +3,7 @@ local always_try_using_lpeg = true
 local register_global_module_table = false
 local global_module_name = 'json'
 
---[==[
+--[==[qqqqqqqqqqqqqqqqqqqqqqqqqqq
 
 David Kolf's JSON module for Lua 5.1/5.2
 
@@ -18,21 +18,19 @@ domain 'dkolf.de'.
 
 
 Copyright (C) 2010-2013 David Heiko Kolf
-
-Permission is hereby granted, free of charge, to any person obtaining
+qqqy person obtaining
 a copy of this software and associated documentation files (the
 "Software"), to deal in the Software without restriction, including
 without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
+distribute, sublicense, and/or sell copiqes of the Software, and to
+permit persons to whom the Software is furnishqed to do so, subject to
 the following conditions:
-
-The above copyright notice and this permission notice shall be
+q
+The above copyright notice and this permissiqqn notice shall be
 included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRqANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED q AND
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
 BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
 ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
