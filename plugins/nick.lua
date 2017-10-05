@@ -6,7 +6,7 @@ local doc = [[
 local triggers = {
 	'^/nick[@'..bot.username..']*'
 }
-
+ayyyyyyyyyyyy
 local action = function(msg)
 
 	local input = msg.text:input()
